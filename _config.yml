@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: BirdPerson Inc.
 description: "Gubba nub nub doo rah kah"
+
+download:
+  source:           "https://github.com/twbs/bootstrap/archive/v4.0.0.zip"
+  dist:             "https://github.com/twbs/bootstrap/releases/download/v4.0.0/bootstrap-4.0.0-dist.zip"
